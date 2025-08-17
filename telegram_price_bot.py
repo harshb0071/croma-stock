@@ -1,4 +1,4 @@
-> #!/usr/bin/env python3
+
 """
 Telegram Price Tracker Bot - Real-time monitoring for Flipkart, Amazon & Croma
 Author: AI Assistant
