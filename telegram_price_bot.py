@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+> #!/usr/bin/env python3
 """
 Telegram Price Tracker Bot - Real-time monitoring for Flipkart, Amazon & Croma
 Author: AI Assistant
@@ -26,8 +26,8 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 # Bot configuration - Replace with your values
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"  # Get from @BotFather
-ADMIN_CHAT_ID = "YOUR_CHAT_ID_HERE"  # Your Telegram chat ID
+BOT_TOKEN = "8281102906:AAGdSceyu5g7Y11woRMk89ndYl4RIy1VKnM" 
+ADMIN_CHAT_ID = "522893052"  
 
 class PriceTracker:
     def __init__(self):
